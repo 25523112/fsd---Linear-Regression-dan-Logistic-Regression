@@ -42,7 +42,7 @@ Hasil evaluasi:
 - AUC: 0.9954
 
 ## Pembagian Kontribusi
-- [Sabrina Hani F]: [Bagian B]
+- [Sabrina Hani F]: [Bagian B (Logistic Regression)]
 - [Anindya Salwa V]: [Bagian A (Linear Regression)]
 - [Anggun Dwi S]: [Membuat README, Memasukkan ke GitHub]
 
